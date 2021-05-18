@@ -19,7 +19,7 @@ const Navbar = ({toggle}) => {
         </nav>
         
     );
-}
+} 
 
 export default Navbar;
 
